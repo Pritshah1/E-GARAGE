@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "144228948144",
+    "project_id": "egarage-eb18f",
+    "storage_bucket": "egarage-eb18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144228948144:android:20753b44153537f0cdc375",
+        "android_client_info": {
+          "package_name": "com.example.egarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144228948144-0chrukguv8l5fbtof9m7p0f05tcm238r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egarage",
+            "certificate_hash": "26617134dc9244aee82b640518cdfb5b5e87d05e"
+          }
+        },
+        {
+          "client_id": "144228948144-32qd5uam3ks85ahsl9huqfvuq94ntqg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQP8i4e5ZKtisc3M2i3nYCCGoNUGHJVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144228948144-32qd5uam3ks85ahsl9huqfvuq94ntqg8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144228948144-lu6rhc05p83rfo0u3h5gopnnnrisafa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.egarage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
